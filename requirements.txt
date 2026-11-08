@@ -1,0 +1,6 @@
+# minimum versions this was tested with; run `pip freeze > requirements.lock.txt` to record exact versions
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.7
+openpyxl>=3.1
+jupyter
